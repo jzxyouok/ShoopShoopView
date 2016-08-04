@@ -1,4 +1,4 @@
-package shoopview.org.advance.shoopview;
+package org.advance.shoopview;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

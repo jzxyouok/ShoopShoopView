@@ -1,4 +1,4 @@
-package shoopview.org.advance.shoopview;
+package org.advance.shoopview;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
